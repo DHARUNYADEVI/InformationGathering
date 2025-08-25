@@ -85,11 +85,17 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/59d89449-18f3-4a92-b3be-34c694cb2ddb" />
 
 ### ping command :
+
 ### Liux OS
+
 <img width="932" height="585" alt="Screenshot 2025-08-15 131627" src="https://github.com/user-attachments/assets/bb4f1daa-d9d7-44c8-9f79-41ff73bd8a8f" />
+
 ### Windows OS
+
 <img width="1034" height="306" alt="Screenshot 2025-08-15 125434" src="https://github.com/user-attachments/assets/fb56308c-66d2-4ddc-99ef-ab6580bebcb4" />
+
 ### whois :
+
 <img width="796" height="761" alt="image" src="https://github.com/user-attachments/assets/81751fe2-47d0-495b-9545-88bd96c60c72" />
 
 
@@ -98,6 +104,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="792" height="300" alt="Screenshot 2025-08-15 132322" src="https://github.com/user-attachments/assets/075b24a0-6159-42aa-86a7-c3655d103c70" />
 
 ### nmap :
+
 <img width="748" height="224" alt="Screenshot 2025-08-15 132629" src="https://github.com/user-attachments/assets/3dc20eb0-954f-44f0-87a3-f8495c58fb46" />
 
 ### whatweb :
@@ -114,6 +121,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### UDP traceroute :
+
 <img width="853" height="529" alt="Screenshot 2025-08-15 134725" src="https://github.com/user-attachments/assets/692e4e15-1dc8-4f4c-9e83-61d2c4158d4b" />
 
 
